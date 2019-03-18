@@ -20,4 +20,4 @@ Marketo Code Challenge
 # Instructions
 1. Download the JAR file from above link
 2. Open terminal and run: ```java -jar <path-to-JAR>/RemoveDuplicateLeads.jar```
-3. The output file and log file are stored in the same path as input file 
+3. The output file ```uniqueLeads.json``` and log file ```log.log``` are stored in the same path as input file 
